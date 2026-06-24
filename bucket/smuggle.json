@@ -1,0 +1,29 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/smuggle-dev/smuggle/releases/download/v0.3.0/smuggle_0.3.0_windows_amd64.zip",
+            "bin": [
+                "smuggle.exe",
+                "smuggle-tray.exe"
+            ],
+            "hash": "5cfd709dc2c49243a545537f7d370f1f8443a3cc9b22043f9efe9ede8d205dfc"
+        },
+        "arm64": {
+            "url": "https://github.com/smuggle-dev/smuggle/releases/download/v0.3.0/smuggle_0.3.0_windows_arm64.zip",
+            "bin": [
+                "smuggle.exe",
+                "smuggle-tray.exe"
+            ],
+            "hash": "46a97df903068b975f244a48857bb3cfa28b2c361ae8ddbb4372c26b1568b8af"
+        }
+    },
+    "homepage": "https://github.com/smuggle-dev/smuggle",
+    "description": "Dropbox for devs — continuous, end-to-end-encrypted folder sync",
+    "shortcuts": [
+        [
+            "smuggle-tray.exe",
+            "Smuggle"
+        ]
+    ]
+}
