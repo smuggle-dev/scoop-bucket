@@ -1,21 +1,21 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/smuggle-dev/smuggle/releases/download/v0.5.0/smuggle_0.5.0_windows_amd64.zip",
+            "url": "https://github.com/smuggle-dev/smuggle/releases/download/v0.5.1/smuggle_0.5.1_windows_amd64.zip",
             "bin": [
                 "smuggle.exe",
                 "smuggle-tray.exe"
             ],
-            "hash": "e68bfa138ca295e99112aab1b48dc68764d4eaca6967522c15cf753e68b12715"
+            "hash": "bdcef4a25dfaec505e13324209a1233738aea7235debcb4dd3400469c53a1f17"
         },
         "arm64": {
-            "url": "https://github.com/smuggle-dev/smuggle/releases/download/v0.5.0/smuggle_0.5.0_windows_arm64.zip",
+            "url": "https://github.com/smuggle-dev/smuggle/releases/download/v0.5.1/smuggle_0.5.1_windows_arm64.zip",
             "bin": [
                 "smuggle.exe",
                 "smuggle-tray.exe"
             ],
-            "hash": "cc793bdcea2536f05de0080a9f8105972c5fe87034365fd1dcbb3c168974ad5f"
+            "hash": "50f3a44b653ee6ed76575920c864f0e970def9e6874acf89b58641676f2e3a20"
         }
     },
     "homepage": "https://github.com/smuggle-dev/smuggle",
